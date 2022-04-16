@@ -3,7 +3,7 @@ creando un archivo nuevo
 con lineas de codigo nueva
 estamos con el nuevo programador
 la resposabilidad de el es la base de datos
-<<<<<<< HEAD
+
 
 nuevas lineas al codigo
 una
@@ -15,4 +15,5 @@ aqui seguimos
 
 
 bueno mas codigo
->>>>>>> 3e878895ba7190227124fd8c236008e85af8d452
+
+python
