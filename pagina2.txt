@@ -17,3 +17,6 @@ aqui seguimos
 bueno mas codigo
 
 python
+c#
+c++
+html
